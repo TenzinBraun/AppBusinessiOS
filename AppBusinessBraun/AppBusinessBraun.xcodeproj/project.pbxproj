@@ -14,6 +14,7 @@
 		083BB0F22418DB52001B02CA /* AppBusinessBraun.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 083BB0F02418DB52001B02CA /* AppBusinessBraun.xcdatamodeld */; };
 		083BB0F42418DB55001B02CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 083BB0F32418DB55001B02CA /* Assets.xcassets */; };
 		083BB0F72418DB55001B02CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 083BB0F52418DB55001B02CA /* LaunchScreen.storyboard */; };
+		085C514B2418EF5D00534997 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 085C514A2418EF5D00534997 /* CoreDataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		083BB0F32418DB55001B02CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		083BB0F62418DB55001B02CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		083BB0F82418DB55001B02CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		085C514A2418EF5D00534997 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				083BB0F52418DB55001B02CA /* LaunchScreen.storyboard */,
 				083BB0F82418DB55001B02CA /* Info.plist */,
 				083BB0F02418DB52001B02CA /* AppBusinessBraun.xcdatamodeld */,
+				085C514A2418EF5D00534997 /* CoreDataManager.swift */,
 			);
 			path = AppBusinessBraun;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				083BB0EC2418DB52001B02CA /* ViewController.swift in Sources */,
 				083BB0E82418DB52001B02CA /* AppDelegate.swift in Sources */,
 				083BB0F22418DB52001B02CA /* AppBusinessBraun.xcdatamodeld in Sources */,
+				085C514B2418EF5D00534997 /* CoreDataManager.swift in Sources */,
 				083BB0EA2418DB52001B02CA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
